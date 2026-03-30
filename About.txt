@@ -1,0 +1,7 @@
+“This is my OpenEnv environment where an AI agent learns business decision-making using step, reset, and state functions.”
+
+“The agent can hire employees, invest in growth, or manage finances.”
+
+“The environment includes real-world uncertainty like market crashes.”
+
+“The reward system encourages long-term strategy.”
